@@ -1,0 +1,6 @@
+{
+    "name": "dotline",
+    "version": "v1.0.0",
+    "description": "开源的无依赖的纯JS库实现粒子线条特效",
+    "main": "./dotLine.js"
+}
