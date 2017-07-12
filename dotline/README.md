@@ -2,9 +2,15 @@
 > powered by Cecil
 
 ### Get Started
-> new DotLine($id).init()
+
+```js
+new DotLine($id).init()
+```
+
 Or
-> new DotLine({
+
+```js
+ new DotLine({
     id: 'canvas', // default 'canvas'
     option: {
         ball_speed_range: [0.5,1.3],
@@ -13,6 +19,7 @@ Or
         canvas_height: 400
     }
 })
+```
 
 ### Licence
 DotLine Plugin is open source and released under the MIT licence
