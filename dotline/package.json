@@ -1,6 +1,19 @@
 {
-    "name": "dotline",
-    "version": "v1.0.0",
-    "description": "开源的无依赖的纯JS库实现粒子线条特效",
-    "main": "./dotLine.js"
+  "name": "dotline",
+  "version": "1.0.0",
+  "description": "开源的无依赖的纯JS库实现粒子线条特效",
+  "main": "./dotLine.js",
+  "scripts": {
+    "test": "open ./demo.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cecil0o0/plugins.git"
+  },
+  "author": "Cecil <jiegithub@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cecil0o0/plugins/issues"
+  },
+  "homepage": "https://github.com/Cecil0o0/plugins#readme"
 }
